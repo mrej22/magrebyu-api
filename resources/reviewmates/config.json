@@ -1,0 +1,29 @@
+{
+	"type": "Collection",
+	"properties": {
+		"senderId": {
+			"name": "senderId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "senderId",
+			"order": 0
+		},
+		"receiverId": {
+			"name": "receiverId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "receiverId",
+			"order": 1
+		},
+		"status": {
+			"name": "status",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "status",
+			"order": 2
+		}
+	}
+}

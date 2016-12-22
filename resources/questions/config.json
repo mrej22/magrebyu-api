@@ -1,0 +1,53 @@
+{
+	"type": "Collection",
+	"properties": {
+		"question": {
+			"name": "question",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "question",
+			"order": 0
+		},
+		"answer": {
+			"name": "answer",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "answer",
+			"order": 1
+		},
+		"choices": {
+			"name": "choices",
+			"type": "array",
+			"typeLabel": "array",
+			"required": false,
+			"id": "choices",
+			"order": 2
+		},
+		"reviewerId": {
+			"name": "reviewerId",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "reviewerId",
+			"order": 3
+		},
+		"selected": {
+			"name": "selected",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "selected",
+			"order": 4
+		},
+		"questionType": {
+			"name": "questionType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "questionType",
+			"order": 5
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"type": "Collection",
+	"properties": {
+		"reviewerName": {
+			"name": "reviewerName",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "reviewerName",
+			"order": 0
+		},
+		"reviewerType": {
+			"name": "reviewerType",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "reviewerType",
+			"order": 1
+		},
+		"creator": {
+			"name": "creator",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "creator",
+			"order": 2
+		},
+		"reviewerMode": {
+			"name": "reviewerMode",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "reviewerMode",
+			"order": 3
+		}
+	}
+}
